@@ -42,7 +42,7 @@
 1. 基于 C:\AI\unity_projects\ml-agents\config\ppo\rollerball.yaml配置新的模型训练设置保存至C:\AI\unity_projects\ml-agents\config\sample\rollerball.yaml
 2. 改正behavior paramters里面behavior name和下图红框中的设置一致。
 
-   ![Alt text](https://github.com/hrsxz/Unity_MLAgent_Project/blob/master/image/image-2.png)
+   ![Alt text](https://github.com/hrsxz/Unity_MLAgent_Project/blob/master/Image/image-2.png)
 
    ![Alt text](image/image-2.png)
 
