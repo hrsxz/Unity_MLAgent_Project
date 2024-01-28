@@ -24,6 +24,8 @@
 
 - 分别在ml-agent和ml-agent-envs下面的cmd窗口中执行
 
+    ![Alt text](https://github.com/hrsxz/Unity_MLAgent_Project/blob/master/Image/image.png)
+
     ![Alt text](image/image.png)
 
     ```python
