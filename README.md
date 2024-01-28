@@ -44,6 +44,8 @@
 
    ![Alt text](image/image-2.png)
 
+   ![Alt text](https://github.com/hrsxz/Unity_MLAgent_Project/blob/master/Image/image-1.png)
+
    ![Alt text](image/image-1.png)
 3. 使用tensorflow面板监控训练过程
 
