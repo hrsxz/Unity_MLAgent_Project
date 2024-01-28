@@ -118,8 +118,6 @@
 
 5. 运行游戏，观察Agent的行为
 
-    ![Alt text](https://github.com/hrsxz/Unity_MLAgent_Project/blob/master/Image/20240128_114054.gif)
-
     ![Alt text](/image/20240128_114054.gif)
 
 ## References
