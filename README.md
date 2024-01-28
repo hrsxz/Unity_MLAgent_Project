@@ -98,7 +98,7 @@
    ![Alt text](image/image-6.png)
 4. 在Unity中设置Behavior Parameters中的behavior type，将Model改为刚刚拷贝的.onnx文件
 
-   ![Alt text](image/image-7.png)
+   ![Alt text](/image/image-7.png)
 
 5. 运行游戏，观察Agent的行为
 
