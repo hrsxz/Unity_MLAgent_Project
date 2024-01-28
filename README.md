@@ -57,6 +57,8 @@
     TensorBoard 2.15.1 at http://localhost:6006/ (Press CTRL+C to quit)
     ```
 
+    ![Alt text](https://github.com/hrsxz/Unity_MLAgent_Project/blob/master/Image/image-3.png)
+
     ![Alt text](image/image-3.png)
 
 4. 使用官方推荐的rollerball_config.yaml配置文件进行训练
@@ -93,18 +95,28 @@
 
 1. 训练好的模型保存在C:\AI\unity_projects\ml-agents\results里
 
+   ![Alt text](https://github.com/hrsxz/Unity_MLAgent_Project/blob/master/Image/image-4.png)
+
    ![Alt text](image/image-4.png)
 2. .onnx文件是用于在Unity中使用的模型文件
+
+   ![Alt text](https://github.com/hrsxz/Unity_MLAgent_Project/blob/master/Image/image-5.png)
 
    ![Alt text](image/image-5.png)
 3. 将.onnx文件拷贝到当前项目的Assets/Models文件夹下
 
+   ![Alt text](https://github.com/hrsxz/Unity_MLAgent_Project/blob/master/Image/image-6.png)
+
    ![Alt text](image/image-6.png)
 4. 在Unity中设置Behavior Parameters中的behavior type，将Model改为刚刚拷贝的.onnx文件
+
+   ![Alt text](https://github.com/hrsxz/Unity_MLAgent_Project/blob/master/Image/image-7.png)
 
    ![Alt text](/image/image-7.png)
 
 5. 运行游戏，观察Agent的行为
+
+    ![Alt text](https://github.com/hrsxz/Unity_MLAgent_Project/blob/master/Image/20240128_114054.gif)
 
     ![Alt text](/image/20240128_114054.gif)
 
