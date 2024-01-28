@@ -102,7 +102,7 @@
 
 5. 运行游戏，观察Agent的行为
 
-    ![Alt text](image/20240128_114054.gif)
+    ![Alt text](/image/20240128_114054.gif)
 
 ## References
 
